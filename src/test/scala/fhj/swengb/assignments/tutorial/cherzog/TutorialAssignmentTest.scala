@@ -26,7 +26,6 @@ class TutorialAssignmentTest {
     *    https://github.com/<yourid>/fhj.swengb.assignments.tutorial
     *
     */
-
   @Test def test(): Unit = {
     assertEquals("Hello world!", TutorialAssignment.hello())
   }
